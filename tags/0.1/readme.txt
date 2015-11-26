@@ -4,7 +4,7 @@ Donate link: http://arushad.org/about/
 Tags: dhivehi, thaana, maldives
 Requires at least: 3.0.1
 Tested up to: 4.3.1
-Stable tag: 4.3
+Stable tag: 0.1
 License: The MIT License (MIT)
 License URI: http://opensource.org/licenses/MIT
 
